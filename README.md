@@ -9,8 +9,13 @@ npm i && npm start
 
 # METHODS
 
-##GET - /books, /genres, /genrecount
+##GET - /books, /genres, /genrecount  
+
 ##POST - /books
+
 ##UPDATE - /books/:id
+
 ##DELETE - /books/:id
+
 ##SEARCH - /books/search/:key
+
